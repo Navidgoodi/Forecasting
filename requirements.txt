@@ -1,0 +1,9 @@
+numpy
+pandas
+yfinance
+statsmodels
+catboost
+matplotlib
+scikit-learn
+html_parser_table
+request
