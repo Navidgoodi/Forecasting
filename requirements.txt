@@ -1,6 +1,7 @@
 numpy
 pandas
 yfinance
+finpy_tse
 statsmodels
 catboost
 matplotlib
